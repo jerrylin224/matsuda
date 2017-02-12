@@ -1,0 +1,173 @@
+html,body{
+font-family:
+font-weight:300px;
+}
+
+.fixed-nav-bar{
+background-color:#084F70;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 60px;
+}
+
+}
+
+.fixed-nav-bar .container{
+margin:0px;
+padding:0px ;
+}
+
+.fixed-nav-bar .container h1{
+float:left;
+color:#fff;
+margin:10px;
+margin-left: 100px;
+padding:0px;
+}
+
+.fixed-nav-bar .nav{
+
+list-style:none;
+color:#fff;
+}
+
+.nav{
+background-color: #084F70;
+
+}
+
+.fixed-nav-bar .nav a{
+	color: #fff;
+	margin-left: 10px;
+	
+}
+
+.fixed-nav-bar .nav li{
+display:inline;
+height:40px;
+line-height:40px;
+margin:0px;
+
+}
+
+.supporting-1{
+background:url(https:/dl.dropboxusercontent.com/s/4dtc01brksnbkd5/X2Q7LBUF6U.jpg?dl=0)center no-repeat ;
+background-size:cover;
+height: 500px;
+opacity: 0.7;
+margin:0px 0px 0px 0px;
+}
+.supporting-1 .container,.supporting-1 .container .row{
+text-align: center;
+color:#fff	;
+width: 100%;
+
+}
+
+.supporting-1 .container{
+padding-top: 180px;
+
+}
+.supporting-1 .container h2{
+font-size: 40px;
+}
+
+
+.supporting-2 .container .row .col-md-2 a:hover #1{
+background-image:url(https://lifepursuing.files.wordpress.com/2016/02/man329.png?w=490) ;
+opacity: 0.5;
+background-size:cover;
+
+}
+
+
+.supporting-2{
+background-color:#0490CB;
+text-align: center;
+padding:30px 0px 50px 0px;
+margin:0px ;
+color:#fff;
+	
+}
+
+.supporting-2 .container {
+  border-bottom: 1px solid #fff;
+width:180px;
+
+}
+.supporting-2 .col-md-2{
+
+margin:0px;	
+padding:0px 5px;
+}
+
+.supporting-2 .col-md-2 p,h2{
+
+padding-top: 20px;
+}
+
+.supporting-2 .col-md-2 .thumbnail{
+text-align: center;
+border-radius: 30px;
+margin:15px;
+padding:15px;
+position: relative;
+left:20%;
+
+}
+
+.supporting-2 .col-md-2 .btn{
+background-color: #fff;
+text-decoration: none;	
+color:#000000;
+}
+.supporting-2 .col-md-2 .btn:hover{	
+background-color:#D6E4F0;
+}
+
+
+.contact{
+
+margin:0px;
+padding:0px;
+text-align: center;
+}
+
+.location{
+	background: url("https://dl.dropboxusercontent.com/s/etb143tmxzail0g/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202016-02-03%2016.29.00.png?dl=0")center no-repeat;
+background-size: 100%;
+height:350px;
+text-align: center;
+color:#fff;
+
+}
+
+
+.location .container p,h3{
+color:#fff;
+z-index: 1;
+font-weight: bold;
+
+}
+
+.footer{
+text-align: center;
+margin:100px 0px;
+
+}
+
+.footer .small{
+width:100px;
+
+}
+
+
+
+
+
+
+
+}

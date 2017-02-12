@@ -1,0 +1,172 @@
+html,body{
+font-family:'Open Sans', xingothic-tc-w4, 微軟正黑體, 'Microsoft JhengHei';
+font-weight:300px;
+}
+
+.fixed-nav-bar{
+background-color:#084F70;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 60px;
+}
+
+}
+
+.fixed-nav-bar .container{
+margin:0px;
+padding:0px ;
+}
+
+.fixed-nav-bar .container h1{
+float:left;
+color:#fff;
+margin:10px;
+margin-left: 100px;
+padding:0px;
+font-size: 36px;
+}
+
+.fixed-nav-bar .nav{
+
+list-style:none;
+color:#fff;
+}
+
+.nav{
+background-color: #084F70;
+
+}
+
+.fixed-nav-bar .nav a{
+	color: #fff;
+	margin-left: 10px;
+
+}
+
+.fixed-nav-bar .nav li{
+display:inline;
+height:40px;
+line-height:40px;
+margin:0px;
+
+}
+
+.main{
+	margin-top: 60px;
+	 }
+
+.main img{
+width:500px;
+height:500px;
+border: 0.5px solid #000000;
+margin-left:auto;
+margin-right: auto;
+}
+article h3{
+	font-size: 28px;
+}
+
+
+}
+.main .section{
+border-top: 2px solid #000000;
+}
+
+.main .section2 .image,h2, .main .section3{
+margin:0px auto;
+text-align: center;
+}
+
+
+ .main .section h2,h3,p{
+font-family:'Open Sans', xingothic-tc-w4, 微軟正黑體, 'Microsoft JhengHei';
+
+ }
+.main .section1{
+background: url("http://www.matsudapingtung.com/image/松田健康生活館-跑步機1.png")bottom no-repeat;
+background-size: cover;
+height:680px;
+
+
+}
+
+.main .section1 h3{
+	color:#fff;
+	font-size:62px;
+	text-align: center;
+  padding-top: 300px;
+
+}
+.main .section2 {
+	margin:50px;
+}
+
+.main .section2 .col-md-6 h3{
+	margin-left:80px;
+
+}
+.main .section2 .col-md-6 p{
+	margin-left:90px;
+
+}
+
+.main .section3{
+
+	background:url("http://www.matsudapingtung.com/image/松田健康生活館-商品-shopping-female.png") 70% 35%;
+	background-size:cover;
+	height:600px;
+	margin-top:-20px;
+}
+#F6F6F6
+
+.main .section3 .information h2,.main .section3 .information p,.main .section3 .information a{
+	color:#ffffff;
+	font-size: 40px;
+	padding-top:28px;
+	text-align: none;
+}
+
+.main .section3 button {
+	margin:100px 100px 0px 100px;
+	background-color: #C4292F;
+	padding:10px 20px;
+	font-size: 18px;
+}
+.main .section3 button:hover{
+background-color: #F6921E;
+cursor: pointer;
+color:#ffffff;
+}
+
+
+.main .section4{
+	background-color: #309BC2;
+	padding:50px;
+	color:#fff;
+	height:600px;
+}
+
+.main .section4 h2{
+	margin-bottom: 50px;
+}
+.main .section4 .container .col-md-4 img{
+	border-radius:50%;
+	padding:15px;
+	border:5px solid #006DF0;
+	background-color: #ffffff;
+}
+
+footer{
+
+	text-align: center;
+	padding:100px 0px;
+
+	clear: both;
+}
+footer .small{
+width:100px;
+
+}

@@ -1,0 +1,145 @@
+html,body{
+font-family:'Open Sans', xingothic-tc-w4, 微軟正黑體, 'Microsoft JhengHei';
+font-weight:300px;
+}
+
+.fixed-nav-bar{
+background-color:#084F70;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 60px;
+}
+
+}
+
+.fixed-nav-bar .container{
+margin:0px;
+padding:0px ;
+}
+
+.fixed-nav-bar .container h1{
+float:left;
+color:#fff;
+margin:10px;
+margin-left: 100px;
+padding:0px;
+}
+
+.fixed-nav-bar .nav{
+
+list-style:none;
+color:#fff;
+}
+
+.nav{
+background-color: #084F70;
+
+}
+
+.fixed-nav-bar .nav a{
+	color: #fff;
+	margin-left: 10px;
+	
+}
+
+.fixed-nav-bar .nav li{
+display:inline;
+height:40px;
+line-height:40px;
+margin:0px;
+
+}
+
+
+.main{
+	margin-top: 60px;
+}
+.main .section1{
+background:url("https://dl.dropboxusercontent.com/s/m5bcyl3bc9u8itq/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202016-02-02%2015.25.45.png?dl=0") center center no-repeat;
+height: 750px;
+background-size: cover;
+opacity: 0.6;
+
+
+}
+
+.main .section2{
+	text-align: center;
+	font-size: 18px;
+	margin:125px;
+}
+
+.main .section2 h1{
+	margin:40px;
+}
+
+.main .section3 .container .row .col-md-4{
+	margin: 0px auto;
+	text-align: center;
+
+}
+.main .section3 {
+
+	margin: 100px;
+}
+
+.main .section3 .container .row .col-md-4 p{
+	font-size: 48px;
+	color: #006DF1;
+}
+
+.main .section3 .container .row .col-md-4 h3{
+	margin-top: -10px;
+	font-size: 18px;
+}
+
+.section4{
+width: 100%;
+height:300px;
+text-align: center;
+font-size:48px;
+  
+} 
+
+
+.section4 h3{
+margin: 30px;
+
+}
+
+.section5 {
+	background:url("http://www.matsudapingtung.com/image/松田健康生活館-我們的願景2.png")center center no-repeat; 
+	background-size:cover;
+	height: 750px;
+	text-align: center;
+	color: #fff;
+	       
+}
+
+.section5 .container{
+	padding-top: 150px;
+}
+
+.section5 h3{
+font-size: 42px;
+margin: 55px 0px;
+}
+
+.section5 p{
+font-size: 28px;
+}
+
+.footer{
+	
+	text-align: center;
+	padding:100px 0px;
+
+	clear: both;
+}
+.footer .small{
+width:100px;
+
+}
